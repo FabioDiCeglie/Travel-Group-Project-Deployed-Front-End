@@ -1,0 +1,10 @@
+.ReviewsCards {
+  background-color: rgb(161, 161, 253);
+  margin-left: 6%;
+  margin-bottom: 2%;
+  border-radius: 3%;
+  width: 80%;
+  display: flex;
+  justify-content: space-around;
+  flex-direction: column;
+}

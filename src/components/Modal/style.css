@@ -1,0 +1,13 @@
+.Homepage {
+  background-color: rgb(224, 224, 255);
+}
+
+.HomepageTitle {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+
+.WheelGif {
+  text-align: center;
+}

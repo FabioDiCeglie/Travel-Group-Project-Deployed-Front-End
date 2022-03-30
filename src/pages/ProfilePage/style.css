@@ -1,0 +1,15 @@
+.ProfilePage {
+}
+
+.ProfileBlock {
+  display: flex;
+}
+.ProfileImage {
+  border-radius: 70%;
+  margin-left: 5%;
+}
+.InformationProfile {
+  margin-left: 10%;
+  margin-top: 8%;
+  font-size: 20px;
+}

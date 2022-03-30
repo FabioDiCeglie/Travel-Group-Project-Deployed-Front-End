@@ -68,6 +68,7 @@ export const getRandomCity = () => {
 
 export const getCity = (city_id) => async (dispatch, getState) => {
   try {
+    console.log("whaaaaat", city_id);
     const response = await axios.get(`${apiUrl}/cities/details/${city_id}`);
     dispatch(randomCity(response.data));
   } catch (error) {

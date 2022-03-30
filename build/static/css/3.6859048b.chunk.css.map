@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/Navigation/style.css"],"names":[],"mappings":"AAAA,QACE,wBACF,CAEA,YACE,oBACF","file":"3.6859048b.chunk.css","sourcesContent":[".NavBar {\n  background-color: rgb(0, 0, 192);\n}\n\n.NavBarLink {\n  color: white !important;\n}\n"]}

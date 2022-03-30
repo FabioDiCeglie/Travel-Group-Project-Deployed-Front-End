@@ -63,7 +63,7 @@ export const Detailpage = () => {
   console.log("what is city", cityFavourites);
   console.log("what is city", weather);
 
-  return !city || !cityFavourites || !weather ? (
+  return !city || !weather ? (
     <></>
   ) : (
     <div style={{ margin: "10px", color: "white", marginBottom: 100 }}>

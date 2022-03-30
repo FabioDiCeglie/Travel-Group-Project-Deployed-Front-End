@@ -36,6 +36,12 @@ Database: Postgres
 </div>
 
 <div>
+<h1>Website:</h1>
+  https://6244242a36d83e5d53c48253--sparkling-douhua-25bfde.netlify.app/
+</div>
+
+
+<div>
 <h1>Login for play the game:</h1>
 <p> As a user: email: a@a.com pass: a.</p>
 <br />

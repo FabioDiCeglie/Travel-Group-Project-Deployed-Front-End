@@ -60,6 +60,8 @@ export const Detailpage = () => {
 
   //console.log("weatherrrrrr", weather);
   console.log("what is city", city);
+  console.log("what is city", cityFavourites);
+  console.log("what is city", weather);
 
   return !city || !cityFavourites || !weather ? (
     <></>

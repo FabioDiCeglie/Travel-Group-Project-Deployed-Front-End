@@ -58,7 +58,8 @@ export const Detailpage = () => {
     }
   };
 
-  console.log("weatherrrrrr", weather);
+  //console.log("weatherrrrrr", weather);
+  console.log("what is city", city);
 
   return !city || !cityFavourites || !weather ? (
     <></>

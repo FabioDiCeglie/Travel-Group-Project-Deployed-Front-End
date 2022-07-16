@@ -14,7 +14,7 @@ Languages: Javascript
 <br />
 Frontend Libraries: React - Redux - Axios
 <br />
-Backend: Node & Express & Sequelize
+Backend: Node - Express - Sequelize
 <br />
 Database: Postgres
 

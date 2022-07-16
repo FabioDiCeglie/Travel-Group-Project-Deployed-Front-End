@@ -1,7 +1,7 @@
 <h1>Where should I go? It is a travel game that decide your next destination!</h1>
 <br />
-<p>This is a group project made by 3 junior developers and in only 5 days of Codaisseur Bootcamp we create a travel game app!</p>
-<p>This game consist in a wheel fortune game that decide your next travel destination randomly.
+<p>This is a group project made by me and another two junior developers in only 5 days of Codaisseur Bootcamp!</p>
+<p>We create a travel game app, this game consist in a wheel fortune game that decide your next travel destination randomly.
 Than you can find more details information about this destination, like weather for the next 10 days(YahooAPI),restaurants, attractions and hotels(RapidAPI).</p>
 
 <h1>Database Tables:</h1>
@@ -39,7 +39,7 @@ Database: Postgres
 
 <div>
 <h1>Website:</h1>
-  https://superb-cheesecake-edf39a.netlify.app/
+ https://whereshouldigo.netlify.app/
 </div>
 
 

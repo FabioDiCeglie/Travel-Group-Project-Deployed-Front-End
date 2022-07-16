@@ -2,7 +2,7 @@
 <br />
 <p>This is a group project made by me and another two junior developers in only 5 days of Codaisseur Bootcamp!</p>
 <p>We create a travel game app, this game consist in a wheel fortune game that decide your next travel destination randomly.
-Than you can find more details information about this destination, like weather for the next 10 days(YahooAPI),restaurants, attractions and hotels(RapidAPI).</p>
+Then you can find more details information about this destination, like weather for the next 10 days(YahooAPI),restaurants, attractions and hotels(RapidAPI).</p>
 
 <h1>Database Tables:</h1>
 

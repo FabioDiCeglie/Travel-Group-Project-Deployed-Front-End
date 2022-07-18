@@ -10,6 +10,9 @@ Then you can find more details information about this destination, like weather 
   <img src="./DBdiagram.png" width="350" title="Database">
 </p>
 
+<h1>Database Repository:</h1>
+https://github.com/FabioDiCeglie/Travel-Group-Project-Back-End-Deployed
+
 <h1>For this app we used:</h1>
 <br />
 Languages: Javascript
